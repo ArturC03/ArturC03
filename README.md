@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F36%2F73%2Fb2%2F3673b220d40793ab3bdb0114aca65803.gif&f=1&nofb=1&ipt=9400e036c96bb2c204da2e169e199707c3407574326a330b36d0be0b21cfe610&ipo=images"  />
 
 ###
 
