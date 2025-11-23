@@ -33,11 +33,6 @@
 
 ---
 
-### Fun
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
----
-
 <p align="center">
   💬 Ask me about anything tech, programming, or software development!
 </p>
